@@ -1,2 +1,2 @@
 # UFW-Setup
-bash script to setup ufw on linux distros
+bash script to setup UFW (Uncomplicated Firewall) on linux distros
