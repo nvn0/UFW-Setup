@@ -16,5 +16,5 @@ sudo ufw enable
 
 sudo systemctl status ufw
 
-sudo ufw status
+sudo ufw status verbose
 sudo ufw status numbered
