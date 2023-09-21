@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# intall ufw
+# install ufw
 sudo apt update
 sudo apt install ufw
 
